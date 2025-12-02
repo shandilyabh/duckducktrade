@@ -10,5 +10,3 @@ This folder contains Jupyter notebooks covering various quantitative finance and
 > Bayesian Optimisation: https://distill.pub/2020/bayesian-optimization/
 > Monte Carlo for Option Pricing: https://intro.quantecon.org/monte_carlo.html
 - **Regressor.ipynb** - Regression model implementation and analysis
-
-Each notebook has an associated PDF version.
